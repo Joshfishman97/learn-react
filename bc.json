@@ -47,7 +47,7 @@
         {
             "slug": "01.1-hello-world",
             "title": "01.1-hello-world",
-            "done": false,
+            "done": true,
             "path": "exercises/01.1-hello-world",
             "translations": [
                 "es",
@@ -58,7 +58,7 @@
         {
             "slug": "01.2-hello-jsx",
             "title": "01.2-hello-jsx",
-            "done": false,
+            "done": true,
             "path": "exercises/01.2-hello-jsx",
             "translations": [
                 "es",
@@ -69,7 +69,7 @@
         {
             "slug": "01.3-rendering-from-objects",
             "title": "01.3-rendering-from-objects",
-            "done": false,
+            "done": true,
             "path": "exercises/01.3-rendering-from-objects",
             "translations": [
                 "es",
@@ -80,7 +80,7 @@
         {
             "slug": "01.4-building-a-layout",
             "title": "01.4-building-a-layout",
-            "done": false,
+            "done": true,
             "path": "exercises/01.4-building-a-layout",
             "translations": [
                 "es",
@@ -91,7 +91,7 @@
         {
             "slug": "01.5-building-html-from-arrays",
             "title": "01.5-building-html-from-arrays",
-            "done": false,
+            "done": true,
             "path": "exercises/01.5-building-html-from-arrays",
             "translations": [
                 "es",
