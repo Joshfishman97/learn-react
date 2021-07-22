@@ -4,6 +4,9 @@ import PropTypes from "prop-types";
 
 //add the styles here
 const mySuperStyles = {
+fontSize: "16px" ,
+background: "black",
+border: "1px solid yellow"
 
 };
 

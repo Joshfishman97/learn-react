@@ -1,6 +1,6 @@
 {
     "port": 3000,
-    "address": "https://pink-earwig-rnsk1s3a.ws-us10.gitpod.io",
+    "address": "https://bronze-cod-wj2z4tir.ws-us11.gitpod.io",
     "editor": "gitpod",
     "configPath": {
         "config": "bc.json",
@@ -201,7 +201,7 @@
         {
             "slug": "04-conditional-rendering",
             "title": "04-conditional-rendering",
-            "done": false,
+            "done": true,
             "path": "exercises/04-conditional-rendering",
             "translations": [
                 "es",
@@ -212,7 +212,7 @@
         {
             "slug": "04.1-conditional-rendering",
             "title": "04.1-conditional-rendering",
-            "done": false,
+            "done": true,
             "path": "exercises/04.1-conditional-rendering",
             "translations": [
                 "es",
@@ -234,7 +234,7 @@
         {
             "slug": "05-adding-styles",
             "title": "05-adding-styles",
-            "done": false,
+            "done": true,
             "path": "exercises/05-adding-styles",
             "translations": [
                 "es",
@@ -245,7 +245,7 @@
         {
             "slug": "05.1-second-styles",
             "title": "05.1-second-styles",
-            "done": false,
+            "done": true,
             "path": "exercises/05.1-second-styles",
             "translations": [
                 "es",
@@ -256,7 +256,7 @@
         {
             "slug": "06-listening-to-events",
             "title": "06-listening-to-events",
-            "done": false,
+            "done": true,
             "path": "exercises/06-listening-to-events",
             "translations": [
                 "es",
